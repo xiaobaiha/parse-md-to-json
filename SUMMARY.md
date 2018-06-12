@@ -11,8 +11,6 @@
       * [模板 \| 需求迭代文档](guideline/appoint/doc_rule/PRD_template.md)
   * [名词定义](GLOSSARY.md)
 
----
-
 * [架构](arch/README.md)
 * [教学系统（LMS）](lms/README.md)
   * [规则](lms/principle.md)
@@ -23,16 +21,12 @@
     * [期次（Term）](lms/course/term.md)
       * [成绩计算](lms/course/term_grade.md)
       * [进度计算](lms/course/term_progress.md)
-      * [目录（List）](lms/course/list.md)
-      * [单元（Unit）](lms/course/unit.md)
     * [典型业务场景实例](lms/course/scenario.md)
     * [课程和期次为什么不合并？](lms/course/course_term_diff.md)
   * [题库（Question\_lib）](lms/question_lib/README.md)
     * [考试](lms/question_lib/test.md)
     * [题目](lms/question_lib/question.md)
     * [迭代需求](lms/question_lib/iteration/README.md)
-      * [003 题库累计优化需求 180601](lms/question_lib/iteration/iteration0003.md)
-      * [002 题目类型增加编程题](lms/question_lib/iteration/iteration0002.md)
       * [001 题库累计优化需求 180416 ](lms/question_lib/iteration/iteration0001.md)
   * [批改（Judge）](lms/judge/README.md)
     * [OJ批改服务](lms/judge/oj.md)
